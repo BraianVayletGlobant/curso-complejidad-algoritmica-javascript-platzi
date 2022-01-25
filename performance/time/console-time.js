@@ -4,6 +4,7 @@ function contar(n) {
   }
 }
 
+// Similar a performance.performance.now() pero menos preciso.
 console.time("duracion-contar");
 contar(5);
 console.timeEnd("duracion-contar");

@@ -6,6 +6,7 @@ function contar(n) {
   }
 }
 
+// performance.performance.now() ayuda a medir el tiempo entre dos lineas de codigo en milisegundos.
 let inicio_tiempo = performance.performance.now();
 contar(5);
 let final_tiempo = performance.performance.now();
