@@ -1,6 +1,6 @@
 # 📝 Notas Curso Complejidad Algoritmica con JavaScript
 
-## Mis Cursos en Platzi. [Certificados](https://drive.google.com/drive/folders/1SNu_BcXoBeMUwQuw-CO2qc6QWhHWv_cL)
+## Mis Cursos en Platzi 👉 [Certificados](https://drive.google.com/drive/folders/1SNu_BcXoBeMUwQuw-CO2qc6QWhHWv_cL)
 
 ## Clases:
 
